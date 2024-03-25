@@ -1,0 +1,10 @@
+dubbo:
+  application:
+    name: dubbo-springboot-demo-provider
+  # 协议信息
+  protocol:
+    name: dubbo
+    port: -1
+  # 注册中心地址
+  registry:
+    address: zookeeper://${zookeeper.address:127.0.0.1}:2181
