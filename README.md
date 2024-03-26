@@ -1,2 +1,2 @@
 # dubbo-spring-boot-demo
-just a simple demo🤩
+not just a simple demo🤩
