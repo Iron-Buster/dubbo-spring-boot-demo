@@ -11,6 +11,7 @@
         <module>dubbo-spring-boot-demo-consumer</module>
         <module>dubbo-spring-boot-demo-provider</module>
         <module>dubbo-spring-boot-demo-interface</module>
+        <module>dubbo-custom-load-balancer</module>
     </modules>
 
 
